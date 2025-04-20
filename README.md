@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
 - 🔭 I’m currently working on [AiVirtualMouse](https://github.com/ananyajain827/AiVirtualMouse)
 

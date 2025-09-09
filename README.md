@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **ananyajain827@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10K1g7v1m_neKUxg3W8acBjT1gTLG2rRd/view?usp=sharing]([https://drive.google.com/file/d/10K1g7v1m_neKUxg3W8acBjT1gTLG2rRd/view?usp=sharing](https://drive.google.com/file/d/15kmLnPBhhGpcP6KlGaclT_x_KJq7CrMR/view?usp=sharing))
+- 📄 Know about my experiences  [View Document](https://drive.google.com/file/d/15kmLnPBhhGpcP6KlGaclT_x_KJq7CrMR/view?usp=sharing)
+
 
 - ⚡ Fun fact **I think I am Funny at serious situations**
 
